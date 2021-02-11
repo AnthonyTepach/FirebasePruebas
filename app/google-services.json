@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610029514542",
+    "firebase_url": "https://fir-login-1e5b9.firebaseio.com",
+    "project_id": "fir-login-1e5b9",
+    "storage_bucket": "fir-login-1e5b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610029514542:android:be9b9dbdc1e9a733f1d4bf",
+        "android_client_info": {
+          "package_name": "com.anthonytepach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610029514542-ulq4gqarmpavu76t0rvudr03t54o0lf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anthonytepach",
+            "certificate_hash": "c35f05351192927c061356f481489a01b7521e62"
+          }
+        },
+        {
+          "client_id": "610029514542-2d16t0871jajm2sfmcr5kkutc04a9qlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9MrbtCQeBO0RG-fyJIXjMV3BAKe-z-pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610029514542-2d16t0871jajm2sfmcr5kkutc04a9qlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
